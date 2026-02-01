@@ -1,1 +1,1 @@
-print("autocore UPDATE")
+print("autocore FIX")
