@@ -1,1 +1,1 @@
-print("autocore INSERT")
+print("autocore UPDATE")
