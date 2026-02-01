@@ -1,1 +1,1 @@
-print("autocore FINAL")
+print("autocore FINAL FIX")
